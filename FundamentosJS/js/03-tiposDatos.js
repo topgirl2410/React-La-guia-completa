@@ -1,3 +1,5 @@
+'use strict';
+
 // Tipos de Datos - Undefined(desde el momento en que creas una variable es undefined hasta que le asignas un valor)
 
 let cliente; // Undefined
